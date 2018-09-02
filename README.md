@@ -1,7 +1,7 @@
 # shooting-game-QT-
 a shooting game made by QT(based from touhou project)
 How to play:
-z:
+z:<br>
   correct or attack
 x:
   use skill in game
