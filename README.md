@@ -1,5 +1,6 @@
 # shooting-game-QT-
 a shooting game made by QT(based from touhou project)<br>
+(run in linux)<br>
 How to play:<br>
 z:<br>
   correct or attack<br>
