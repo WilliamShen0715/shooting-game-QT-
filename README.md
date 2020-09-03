@@ -1,12 +1,16 @@
-# shooting-game-QT-
-a shooting game made by QT(based from touhou project)<br>
-(run in linux)<br>
-How to play:<br>
-z:<br>
-  correct or attack<br>
-x:<br>
-  use skill in game<br>
-r:<br>
-  restart in the end of the game<br>
-up,down,left,right:<br>
-  move the player in the game
+# shooting-game (C++)
+
+[2018 NCKU C++ 期末project] 
+
+## 使用說明與執行
+
+此程式需有QT支援。
+此程式需在linux中執行。
+
+此遊戲以QT製作，遊戲模式參考東方project。
+
+`z` : 確認與攻擊。
+`x` : 特殊攻擊。
+`r` : 再次開始遊戲。
+
+
